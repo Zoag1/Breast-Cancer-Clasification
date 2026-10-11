@@ -25,8 +25,10 @@ Proyek ini bertujuan untuk melakukan klasifikasi pada dataset Breast Cancer meng
 #### Kontak
 Untuk pertanyaan atau diskusi lebih lanjut, Anda dapat menghubungi saya melalui:
 
-Email: maresyatwattimena@gmail.com atau LinkedIn: www.linkedin.com/in/maresyawattimena
+Email: maresyatwattimena@gmail.com <br>
+LinkedIn: www.linkedin.com/in/maresyawattimena <br>
+Instagram: https://www.instagram.com/echawttmna_/
 
 
-Terima kasih telah membaca! Saya terbuka untuk masukan dan saran terkait proyek ini.
+Terima kasih telah membaca! Saya terbuka untuk masukan dan saran terkait proyek ini. <br>
 God bless you!
